@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EcommercePlatformSearchFunction/EcommercePlatformSearchFunction.iml" filepath="$PROJECT_DIR$/EcommercePlatformSearchFunction/EcommercePlatformSearchFunction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FactoryMethodPatternExample/FactoryMethodPatternExample.iml" filepath="$PROJECT_DIR$/FactoryMethodPatternExample/FactoryMethodPatternExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Financial_Forcasting/Financial_Forcasting.iml" filepath="$PROJECT_DIR$/Financial_Forcasting/Financial_Forcasting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SingletonPatternExample/SingletonPatternExample.iml" filepath="$PROJECT_DIR$/SingletonPatternExample/SingletonPatternExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/week 1.iml" filepath="$PROJECT_DIR$/.idea/week 1.iml" />
+    </modules>
+  </component>
+</project>
