@@ -1,5 +1,6 @@
 import org.junit.Test;
 
+import static org.junit.Assert.assertEquals;
 import static org.mockito.Mockito.*;
 
 public class SimpleMock {
@@ -13,9 +14,8 @@ public class SimpleMock {
         when(mockApi.getData()).thenReturn("Mock Data");
         //when -> thenReturn cant have an void method
         //for void method use when -> doNothing instead of thenReturn
-        service.fetchData();
-        //Mock Verification
-        verify(mockApi).getData();
+        String s = service.fetchData();
+        assertEquals("Mock Data", s);
     }
 
 }
