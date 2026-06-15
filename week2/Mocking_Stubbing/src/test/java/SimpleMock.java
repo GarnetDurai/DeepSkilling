@@ -6,7 +6,7 @@ import static org.mockito.Mockito.*;
 public class SimpleMock {
 
     @Test
-    public void TestServic(){
+    public void TestService(){
         //Mocking
         ExternalApi mockApi = mock(ExternalApi.class);
         MyService service = new MyService(mockApi);
