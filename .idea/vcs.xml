@@ -4,5 +4,6 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/week 1/EcommercePlatformSearchFunction" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/week2/Control Structures" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/week3/LibraryManagement" vcs="Git" />
   </component>
 </project>
