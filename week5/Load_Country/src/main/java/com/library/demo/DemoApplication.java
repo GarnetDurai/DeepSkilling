@@ -5,19 +5,15 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
-
+import com.library.demo.Service.LoadService;
 @SpringBootApplication
 public class DemoApplication {
-    public static void displayCountries(){
-        ApplicationContext context = new ClassPathXmlApplicationContext("Country.xml");
-        List<Country> countries = (List<Country>) context.getBean("countryList");
-        for(Country c : countries){
-            System.out.println(c);
-        }
-    }
+
+
 	public static void main(String[] args) {
+        LoadService service = new LoadService();
         SpringApplication.run(DemoApplication.class, args);
-        displayCountries();
+        service.displayCountries();
 	}
 
 }
