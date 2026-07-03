@@ -1,16 +1,13 @@
 package com.cognizant.spring_learn;
-
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.context.annotation.ImportResource;
 
 @SpringBootApplication
-@ImportResource("classpath:Country.xml")
 public class SpringLearnApplication {
-
 	public static void main(String[] args) {
-
+        System.out.print("Application is Starting");
         SpringApplication.run(SpringLearnApplication.class, args);
+        System.out.print("Application ended Succesfully");
 	}
 
 }
