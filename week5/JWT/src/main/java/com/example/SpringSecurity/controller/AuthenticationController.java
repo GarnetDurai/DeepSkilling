@@ -13,6 +13,6 @@ public class AuthenticationController {
     }
     @GetMapping("/authenticate")
     public String authenticate(@RequestHeader("Authorization") String authHeader){
-        return service.decode(authHeader);
+        return service.authenticate(authHeader);
     }
 }
