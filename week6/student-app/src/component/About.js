@@ -1,0 +1,1 @@
+import React,{Component} from "react";class About extends Component{constructor(props){super(props);}render(){return (<div><h3> My name is Garnet </h3></div>);}}export default About;
