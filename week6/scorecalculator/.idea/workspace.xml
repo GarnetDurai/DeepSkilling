@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12564273-f08e-4e24-84d9-9774bdb84feb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../scorecalculator/src/Components/CalculatorScore.js" afterDir="false" />
+    <list default="true" id="e591abe9-9b8c-4400-aa87-2f2c4acbca69" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Components/CalculateScore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StyleSheets/mystyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-app/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../student-app/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,25 +30,24 @@
   }
 }</component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 8
+  &quot;associatedIndex&quot;: 0
 }</component>
-  <component name="ProjectId" id="3GXDpYwGQkhYGgd6EjYyIZybxpp" />
+  <component name="ProjectId" id="3GZtSj2X3p77S1ymJgUdM2FDr4H" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/garnetdurai/Documents/deepskilling/week6/student-app&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.Other File Types&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/garnetdurai/Documents/deepskilling/week6/scorecalculator"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -56,11 +57,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="12564273-f08e-4e24-84d9-9774bdb84feb" name="Changes" comment="" />
-      <created>1784109204057</created>
+      <changelist id="e591abe9-9b8c-4400-aa87-2f2c4acbca69" name="Changes" comment="" />
+      <created>1784190921162</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1784109204057</updated>
+      <updated>1784190921162</updated>
     </task>
     <servers />
   </component>
