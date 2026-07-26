@@ -1,0 +1,1 @@
+function ListOfPlayers({ players }){    return (        <div>            <ul>            {                players.map((player, index) =>(           <li key={index}>                mr.{player.name} {player.score}           </li>                ))            }            </ul>        </div>    );}export default ListOfPlayers;
