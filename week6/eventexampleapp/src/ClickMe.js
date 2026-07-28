@@ -1,0 +1,1 @@
+function ClickMe(){    function click(event){        alert("I was Clicked");    }    return(        <div>            <button onClick={click}>Click Me</button>        </div>    );}export default ClickMe;
