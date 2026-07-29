@@ -1,0 +1,1 @@
+function LoginButton(prop){    return(        <div>      <button onClick={prop.onClick}>Login</button>        </div>    );}export default LoginButton;

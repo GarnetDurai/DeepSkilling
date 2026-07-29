@@ -1,0 +1,1 @@
+function UserGreating(){    return (      <div>          <h1>              Welcome User          </h1>      </div>    );}export default UserGreating;

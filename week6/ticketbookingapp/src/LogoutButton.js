@@ -1,0 +1,1 @@
+function LogoutButton(prop){    return (      <div>          <button onClick={prop.onClick}>Logout</button>      </div>    );}export default LogoutButton;
